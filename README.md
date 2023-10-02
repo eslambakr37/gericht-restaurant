@@ -29,9 +29,11 @@ This screenshot shows the full layout of the website on screen size 1360px.
 This screenshot shows the view of the Home page on screen size 1360px.
 
 ![](./screenshots/screenshot_3.png) 
+
 This screenshot shows the view of the awards section on screen size 1360px.
 
 ![](./screenshots/screenshot_4.png) 
+
 This screenshot shows the view of the gallery section on screen size 768px.
 
 ### Links
