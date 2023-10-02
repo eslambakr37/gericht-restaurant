@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://gericht-restaurant-seven-rho.vercel.app/)
+- Live Site URL: (https://gericht-restaurant-seven-rho.vercel.app/)
 
 ## My process
 
