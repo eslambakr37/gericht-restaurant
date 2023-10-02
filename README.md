@@ -22,10 +22,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/screenshot_1.jpeg) this screenshot shows the full layout of the website on screen size 1360px.
-![](./screenshots/screenshot_2.png) this screenshot shows the view of the Home page on screen size 1360px.
-![](./screenshots/screenshot_3.png) this screenshot shows the view of the awards section on screen size 1360px.
-![](./screenshots/screenshot_4.png) this screenshot shows the view of the gallery section on screen size 768px.
+![](./screenshots/screenshot_1.jpeg) 
+This screenshot shows the full layout of the website on screen size 1360px.
+
+![](./screenshots/screenshot_2.png) 
+This screenshot shows the view of the Home page on screen size 1360px.
+
+![](./screenshots/screenshot_3.png) 
+This screenshot shows the view of the awards section on screen size 1360px.
+
+![](./screenshots/screenshot_4.png) 
+This screenshot shows the view of the gallery section on screen size 768px.
 
 ### Links
 
