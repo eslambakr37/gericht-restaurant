@@ -38,7 +38,7 @@ This screenshot shows the view of the gallery section on screen size 768px.
 
 ### Links
 
-- Live Site URL: (https://gericht-restaurant-seven-rho.vercel.app/)
+- Live Site URL: (https://gericht-restaurant-zeta-nine.vercel.app//)
 
 ## My process
 
